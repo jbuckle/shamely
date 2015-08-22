@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shamely", "Shamely\Shamely.csproj", "{54468FDD-33B3-45DF-AF94-9B511CA3709D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shamely.UITests", "Shamely.UITests\Shamely.UITests.csproj", "{6C9E4930-BA99-4A49-9CD0-171FE36CD67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54468FDD-33B3-45DF-AF94-9B511CA3709D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54468FDD-33B3-45DF-AF94-9B511CA3709D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54468FDD-33B3-45DF-AF94-9B511CA3709D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54468FDD-33B3-45DF-AF94-9B511CA3709D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9E4930-BA99-4A49-9CD0-171FE36CD67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9E4930-BA99-4A49-9CD0-171FE36CD67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9E4930-BA99-4A49-9CD0-171FE36CD67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9E4930-BA99-4A49-9CD0-171FE36CD67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
